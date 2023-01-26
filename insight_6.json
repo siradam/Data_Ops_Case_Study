@@ -1,0 +1,1 @@
+{"Income difference between man and women": {"Female": [{"income": "<=50K", "counts": 13026}, {"income": ">50K", "counts": 1669}], "Male": [{"income": "<=50K", "counts": 20988}, {"income": ">50K", "counts": 9539}]}}

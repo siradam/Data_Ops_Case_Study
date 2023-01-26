@@ -1,0 +1,1 @@
+{"Income percentage of major educational groups": {"Bachelors": [{"income": "<=50K", "counts": 4392}, {"income": ">50K", "counts": 3178}], "HS-grad": [{"income": "<=50K", "counts": 12367}, {"income": ">50K", "counts": 2416}], "Some-college": [{"income": "<=50K", "counts": 7909}, {"income": ">50K", "counts": 1990}]}}
